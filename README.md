@@ -4,3 +4,9 @@ The current day and time is displayed at the top of the calendar automatically. 
 
 Here is the link to the application: https://solomon-eke.github.io/Work-Day-Scheduler/
 
+
+
+
+<img width="960" alt="Screenshot2020-01-3013 37 46" 
+src="https://github.com/solomon-eke/Work-Day-Scheduler/blob/master/screenshot/screenshot.png" 
+style="max-width:100%;">
